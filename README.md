@@ -5,9 +5,17 @@ Audio/tech info stuff
 
 POWER SEQUENCE
 ===============================
-1. Board
+1. Board 
+Power on board using power switch on wall labeled "board"
 2. Snake
+Wait for the board to completely "boot up", then power on the equipment rack behind the drumset using the power switch at the top of the rack. There should be a total of 3 green lights that turn on as the 2 digital snakes establish a connection to the board. If these don't light up, simply power off the rack and power it back on again.
 3. Amps
+The second power switch on the wall by the board turns on the amps. This powers the overhead speakers and the subs.
+4. Side/fill speakers
+These speakers are powered, so during power-off, it's important to turn these off *before* the snake and board are powered off.
+
+For powering off, reverse this process.
+
 
 X32 "Setup"
 ===========================
